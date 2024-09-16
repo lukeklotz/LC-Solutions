@@ -1,4 +1,10 @@
 
+# This program recursively traverses a binary tree and returns the maximum depth of the tree
+# I included a print statement which outputs the current subtree the program is in 
+# as well as the current node its on.
+
+# I made this program as a way to help me understand recursive traversal of a binary tree.
+
 
 class TreeNode:
      def __init__(self, value=0, left=None, right=None):
